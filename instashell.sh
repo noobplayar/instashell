@@ -215,3 +215,6 @@ bruteforcer
 esac
 thelinuxchoice/instashell
 cd instashell
+cd instashell/
+chmod 775 instashell.sh
+chmod 775 install.sh
